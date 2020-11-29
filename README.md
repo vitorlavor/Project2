@@ -1,6 +1,6 @@
-# Project - House Rocket Company
+# Project - Bank Marketing
 
-## 🏠 About the project  
+## 🏦 💰 About the project  
 
 Through a good exploratory data analysis and a machine learning model, this project aimed to increase the campaign efficiency by identifying the main characteristics that affect the success rate, helping in a better management of the available resources (e.g. human effort, phone calls, time).
 
