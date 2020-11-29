@@ -9,7 +9,9 @@ Through a good exploratory data analysis and a machine learning model, this proj
 3. Which customers are more willing to subscribe to the product?
 4. Which model is recommend to put into production for the next campaign?
 
-The dataset is available at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) .
+[Bank Marketing Project](https://github.com/vitorlavor/Project_BankMarketing/blob/main/ProjectBankMarketing.ipynb).
+
+The dataset is available at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
 ## 📈 Content
 
